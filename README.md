@@ -1,6 +1,7 @@
 # RedReplier Homebrew tap
 
 ```bash
+brew trust RedReplier/tap
 brew install RedReplier/tap/redreplier
 ```
 
