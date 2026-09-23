@@ -5,23 +5,23 @@ class Redreplier < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/RedReplier/redreplier-cli/releases/download/v0.1.2/redreplier_0.1.2_darwin_arm64.tar.gz"
-      sha256 "562b381ae6f8eefcd38cc850aa652c71128cbe5ffc49344715c03ceee22bd196"
+      url "https://github.com/RedReplier/redreplier-cli/releases/download/v0.1.3/redreplier_0.1.3_darwin_arm64.tar.gz"
+      sha256 "09cde1d7b23115b686016d6e76157848ebb77d008b95899a4d8dc935082d2b4f"
     end
     on_intel do
-      url "https://github.com/RedReplier/redreplier-cli/releases/download/v0.1.2/redreplier_0.1.2_darwin_x64.tar.gz"
-      sha256 "88484c1d6e1a1218c3a079d98619625b6a83d1154af331d75d308f2c835d49a4"
+      url "https://github.com/RedReplier/redreplier-cli/releases/download/v0.1.3/redreplier_0.1.3_darwin_x64.tar.gz"
+      sha256 "0301b403c0e62c872028d97479040aa7e170d79ad0687f4e4a9c408f4bd319a0"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/RedReplier/redreplier-cli/releases/download/v0.1.2/redreplier_0.1.2_linux_arm64.tar.gz"
-      sha256 "2f18d76c047a8959bb7ce6d2f5ce68fb344350105a18c335a9739183c6741748"
+      url "https://github.com/RedReplier/redreplier-cli/releases/download/v0.1.3/redreplier_0.1.3_linux_arm64.tar.gz"
+      sha256 "e895eae559d46a2164414f10ce9937325ab386ad493ddea078bebfa0419399ba"
     end
     on_intel do
-      url "https://github.com/RedReplier/redreplier-cli/releases/download/v0.1.2/redreplier_0.1.2_linux_x64.tar.gz"
-      sha256 "4dc74d178682e2601e6b0de66935669c389e5894ada3cf6107c7be0d79a43185"
+      url "https://github.com/RedReplier/redreplier-cli/releases/download/v0.1.3/redreplier_0.1.3_linux_x64.tar.gz"
+      sha256 "69759099988336027caa55bcb4990b9f9f627c1d2a345cabc0ccd8fdadbe43e4"
     end
   end
 
